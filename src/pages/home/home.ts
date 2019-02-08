@@ -22,3 +22,8 @@ this.http.get('/v1/pin-data?url=/s-renta-inmuebles/guadalajara-y-zona-metro/v1c1
 
   }
 }
+
+
+//Las imagenes las saque de Pictures en la url de vivaanuncios
+//El precio fue de price y con un artributo llamado formatted ammount
+//La ubicacion fue de Geo, en la url e vivanuncios el cual tiene dos artributo llamadados displaynme y name
